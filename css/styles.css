@@ -1,0 +1,21 @@
+ul>li{
+  float: right;
+  list-style: none;
+  margin-top: 0;
+}
+ul>li{
+  display:inline-block;
+}
+ul>li>a{
+  color: white;
+  padding: 5px 20px:
+  font-family:"roboto",sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+ul>li.active a{
+  border: 1 px solid white;
+}
+ul>li a:hover{
+  border: 1 px solid white;
+}
