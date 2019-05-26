@@ -1,8 +1,6 @@
 # Portfolio landing
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
 ## Description
-{This website gives info on me and my interests . }
+This website gives info on me and my interests.
 ## Setup/Installation Requirements
 * git clone(https://github.com/faithkoske/portfolio-landing.git
 
@@ -13,7 +11,8 @@ open index.html from a browser
 html
 css
 ## Support and contact details
-moringaschool("http://www.moringaschool.com/")
+Moringa School
+
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT License.
 Copyright (c) {2019} **{Faith Koske}**
