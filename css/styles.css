@@ -1,7 +1,7 @@
 /* IDEA: index styling starts here */
 
 body {
-  background-image: url(https://i.imgur.com/GY8Rg8f.png);
+  background-image: url(https://images.wallpaperscraft.com/image/planets_stars_galaxies_cluster_energy_65691_1920x1080.jpg);
 }
 
 .jumbotron {
@@ -71,4 +71,19 @@ img#memospics:hover {
   border: 2px solid black;
   height: 600px;
   width: 600px;
+}
+h1
+{
+  font-family: monospace;
+  color: blue;
+}
+h2
+{
+  font-family: monospace;
+  color: blue;
+}
+h3
+{
+  font-family: monospace;
+  color: blue;
 }
